@@ -38,7 +38,7 @@ namespace Project_2_1_
                 {
                     Console.WriteLine("done1");
                     columns = reader.ReadLine().Split(DELIMITER);
-                    sbInfo = new SBList1(columns[0], columns[1], columns[2], columns[3], columns[4], columns[5], columns[6], columns[7], columns[8], columns[9], columns[10], columns[11], columns[12], columns[13]);
+                    sbInfo = new SBList1(columns[0], columns[1], columns[2], columns[3], columns[4], columns[5], columns[6], columns[7], columns[8], columns[9], columns[10], columns[11], columns[12], columns[13], columns[14]);
                     Console.WriteLine("done2");
                     stuff.Add(sbInfo);
 
@@ -92,6 +92,7 @@ class SBList1
     public int winPoints { get; set; }
     public string qbLoser { get; set; }
     public string cLoser { get; set; }
+    public string tLoser { get; set; }
     public int losePoints { get; set; }
     public string MVP { get; set; }
     public string stadium { get; set; }
@@ -100,7 +101,7 @@ class SBList1
 
 
 
-    public SBList1(string date, string sbNumber, string attendance, string qbWinner, string cWinner, string tWinner, string winPoints, string qbLoser, string cLoser, string losePoints, string MVP, string stadium, string city, string state)
+    public SBList1(string date, string sbNumber, string attendance, string qbWinner, string cWinner, string tWinner, string winPoints, string qbLoser, string cLoser, string tLoser, string losePoints, string MVP, string stadium, string city, string state)
     {
         this.date = date;
         this.sbNumber = sbNumber;
@@ -111,6 +112,7 @@ class SBList1
         this.winPoints = int.Parse(winPoints);
         this.qbLoser = qbLoser;
         this.cLoser = cLoser;
+        this.tLoser = tLoser;
         this.losePoints = int.Parse(losePoints);
         this.MVP = MVP;
         this.stadium = stadium;
