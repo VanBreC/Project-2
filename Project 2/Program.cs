@@ -65,14 +65,7 @@ namespace Project_2_1_
 
         public static void List1(ref List<SBList1> ListAdd, StreamWriter FillInfo)
         {
-            FillInfo.WriteLine("All SuperBowl Winners");
-            FillInfo.Write("{0, -25}", "Winning Team");
-            FillInfo.Write("{0, -6}", "Year");
-            FillInfo.Write("{0, -30}", "Winning QB");
-            FillInfo.Write("{0, -25}", "Winning Coach");
-            FillInfo.Write("{0, -30}", "MVP");
-            FillInfo.Write("{0, -10}", "Score Diff");
-            FillInfo.WriteLine("\n\n");
+           
             for (var x = 0; x < ListAdd.Count; x++)
             {
                 SBList1.FillInfo(ListAdd[x], FillInfo);
@@ -123,13 +116,17 @@ class SBList1
     }
     public static void FillInfo(SBList1 ListAdd, StreamWriter FillInfo)
     {
-        //FillInfo.Write(ListAdd.tWinner, "\n");
-        //FillInfo.Write( ListAdd.date, "\n");
-        //FillInfo.Write( ListAdd.qbWinner, "\n");
-        //FillInfo.Write( ListAdd.cWinner, "\n");
-        //FillInfo.Write( ListAdd.MVP, "\n");
-       // FillInfo.Write( Convert.ToString(ListAdd.winPoints - ListAdd.losePoints), "\n");
-        FillInfo.Write($"Winning Team: {ListAdd.tWinner}\nDate: {ListAdd.date}\n");
+        FillInfo.Write($"Winning Team: {ListAdd.tWinner}\n");
+        FillInfo.WriteLine();
+        FillInfo.Write($"Date: {ListAdd.date}\n");
+        FillInfo.WriteLine();
+        FillInfo.Write($"Winning Quarterback: {ListAdd.qbWinner}\n");
+        FillInfo.WriteLine();
+        FillInfo.Write($"Winning Coach: {ListAdd.cWinner}\n");
+        FillInfo.WriteLine();
+        FillInfo.Write($"MVP: {ListAdd.MVP}\n");
+        FillInfo.WriteLine();
+        FillInfo.Write($"Point Difference: {ListAdd.winPoints - ListAdd.losePoints}\n");
         FillInfo.WriteLine();
         return;
     }

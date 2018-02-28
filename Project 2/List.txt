@@ -1,158 +1,205 @@
-All SuperBowl Winners
-Winning Team             Year  Winning QB                    Winning Coach            MVP                           Score Diff
-
-
 Winning Team: Green Bay Packers
+
 Date: 15-Jan-67
 
 Winning Team: Green Bay Packers
+
 Date: 14-Jan-68
 
 Winning Team: New York Jets
+
 Date: 12-Jan-69
 
 Winning Team: Kansas City Chiefs
+
 Date: 11-Jan-70
 
 Winning Team: Baltimore Colts
+
 Date: 17-Jan-71
 
 Winning Team: Dallas Cowboys
+
 Date: 16-Jan-72
 
 Winning Team: Miami Dolphins
+
 Date: 14-Jan-73
 
 Winning Team: Miami Dolphins
+
 Date: 13-Jan-74
 
 Winning Team: Pittsburgh Steelers
+
 Date: 12-Jan-75
 
 Winning Team: Pittsburgh Steelers
+
 Date: 18-Jan-76
 
 Winning Team: Oakland Raiders
+
 Date: 9-Jan-77
 
 Winning Team: Dallas Cowboys
+
 Date: 15-Jan-78
 
 Winning Team: Pittsburgh Steelers
+
 Date: 21-Jan-79
 
 Winning Team: Pittsburgh Steelers
+
 Date: 20-Jan-80
 
 Winning Team: Oakland Raiders
+
 Date: 25-Jan-81
 
 Winning Team: San Francisco 49ers
+
 Date: 24-Jan-82
 
 Winning Team: Washington Redskins
+
 Date: 30-Jan-83
 
 Winning Team: Los Angeles Raiders
+
 Date: 22-Jan-84
 
 Winning Team: San Francisco 49ers
+
 Date: 20-Jan-85
 
 Winning Team: Chicago Bears
+
 Date: 26-Jan-86
 
 Winning Team: New York Giants
+
 Date: 25-Jan-87
 
 Winning Team: Washington Redskins
+
 Date: 31-Jan-88
 
 Winning Team: San Francisco 49ers
+
 Date: 22-Jan-89
 
 Winning Team: San Francisco 49ers
+
 Date: 28-Jan-90
 
 Winning Team: New York Giants
+
 Date: 27-Jan-91
 
 Winning Team: Washington Redskins
+
 Date: 26-Jan-92
 
 Winning Team: Dallas Cowboys
+
 Date: 31-Jan-93
 
 Winning Team: Dallas Cowboys
+
 Date: 30-Jan-94
 
 Winning Team: San Francisco 49ers
+
 Date: 29-Jan-95
 
 Winning Team: Dallas Cowboys
+
 Date: 28-Jan-96
 
 Winning Team: Green Bay Packers
+
 Date: 26-Jan-97
 
 Winning Team: Denver Broncos
+
 Date: 25-Jan-98
 
 Winning Team: Denver Broncos
+
 Date: 31-Jan-99
 
 Winning Team: St. Louis Rams
+
 Date: 30-Jan-00
 
 Winning Team: Baltimore Ravens
+
 Date: 28-Jan-01
 
 Winning Team: New England Patriots
+
 Date: 3-Feb-02
 
 Winning Team: Tampa Bay Buccaneers
+
 Date: 26-Jan-03
 
 Winning Team: New England Patriots
+
 Date: 1-Feb-04
 
 Winning Team: New England Patriots
+
 Date: 6-Feb-05
 
 Winning Team: Pittsburgh Steelers
+
 Date: 5-Feb-06
 
 Winning Team: Indianapolis Colts
+
 Date: 4-Feb-07
 
 Winning Team: New York Giants
+
 Date: 3-Feb-08
 
 Winning Team: Pittsburgh Steelers
+
 Date: 1-Feb-09
 
 Winning Team: New Orleans Saints
+
 Date: 7-Feb-10
 
 Winning Team: Green Bay Packers
+
 Date: 6-Feb-11
 
 Winning Team: New York Giants
+
 Date: 5-Feb-12
 
 Winning Team: Baltimore Ravens
+
 Date: 3-Feb-13
 
 Winning Team: Seattle Seahawks
+
 Date: 2-Feb-14
 
 Winning Team: New England Patriots
+
 Date: 1-Feb-15
 
 Winning Team: Denver Broncos
+
 Date: 7-Feb-16
 
 Winning Team: New England Patriots
+
 Date: 5-Feb-17
 
 
