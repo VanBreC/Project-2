@@ -14,7 +14,7 @@ namespace Project_2_1_
         
         static void Main()
         {
-            List<SBList1> stuff = new List<SBList1>();
+            List<SBList1> ListAdd = new List<SBList1>();
             SBList1 sbInfo;
 
             //
@@ -40,7 +40,7 @@ namespace Project_2_1_
                     columns = reader.ReadLine().Split(DELIMITER);
                     sbInfo = new SBList1(columns[0], columns[1], columns[2], columns[3], columns[4], columns[5], columns[6], columns[7], columns[8], columns[9], columns[10], columns[11], columns[12], columns[13], columns[14]);
                     
-                    stuff.Add(sbInfo);
+                    ListAdd.Add(sbInfo);
 
                 }
 
@@ -53,17 +53,17 @@ namespace Project_2_1_
             {
                 Console.WriteLine(i.Message);
             }
-            using (StreamWriter sw = new StreamWriter(newFilepath))
+            using (StreamWriter FileWrite = new StreamWriter(newFilepath))
             {
-                SB_Winners(ref stuff, sw);
-                sw.WriteLine();
+                List1(ref ListAdd, FileWrite);
+                FileWrite.WriteLine();
             }
 
             
             return;
         }
 
-        public static void SB_Winners(ref List<SBList1> stuff, StreamWriter sw)
+        public static void List1(ref List<SBList1> stuff, StreamWriter sw)
         {
             sw.WriteLine("All SuperBowl Winners");
             sw.Write("{0, -25}", "Winning Team");
@@ -75,7 +75,7 @@ namespace Project_2_1_
             sw.WriteLine("\n");
             for (var x = 0; x < stuff.Count; x++)
             {
-                SBList1.List1(stuff[x], sw);
+                SBList1.FillInfo(stuff[x], sw);
             }
             return;
         }
@@ -121,7 +121,7 @@ class SBList1
 
 
     }
-    public static void List1(SBList1 row, StreamWriter sw)
+    public static void FillInfo(SBList1 row, StreamWriter sw)
     {
         sw.Write("{0, -25}", row.tWinner);
         sw.Write("{0, -6}", row.date);
