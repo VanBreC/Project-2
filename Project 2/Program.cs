@@ -19,10 +19,10 @@ namespace Project_2_1_
             List<SBList1> stuff = new List<SBList1>();
 
             SBList1 sbInfo;
-
+            //
             const char DELIMITER = ',';
             string[] columns;
-            const string FilePath = @"C:\Users\vanbrec\Documents\Visual Studio 2017\Projects\Project 2(1)\Project 2(1)\bin\Debug\Super_Bowl_Project.csv";
+            const string FilePath = @"C:\Users\vanbrec\Documents\Advance Programing\Visual Studio 2017\Projects\Project 2\Project 2\Super_Bowl_Project.csv";
             FileStream newfile = new FileStream("SuperBowlLists.txt", FileMode.Create, FileAccess.Write);
             StreamWriter writer = new StreamWriter(newfile);
             try
