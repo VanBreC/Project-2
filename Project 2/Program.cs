@@ -63,19 +63,19 @@ namespace Project_2_1_
             return;
         }
 
-        public static void List1(ref List<SBList1> stuff, StreamWriter sw)
+        public static void List1(ref List<SBList1> ListAdd, StreamWriter FillInfo)
         {
-            sw.WriteLine("All SuperBowl Winners");
-            sw.Write("{0, -25}", "Winning Team");
-            sw.Write("{0, -6}", "Year");
-            sw.Write("{0, -30}", "Winning QB");
-            sw.Write("{0, -25}", "Winning Coach");
-            sw.Write("{0, -30}", "MVP");
-            sw.Write("{0, -10}", "Score Diff");
-            sw.WriteLine("\n");
-            for (var x = 0; x < stuff.Count; x++)
+            FillInfo.WriteLine("All SuperBowl Winners");
+            FillInfo.Write("{0, -25}", "Winning Team");
+            FillInfo.Write("{0, -6}", "Year");
+            FillInfo.Write("{0, -30}", "Winning QB");
+            FillInfo.Write("{0, -25}", "Winning Coach");
+            FillInfo.Write("{0, -30}", "MVP");
+            FillInfo.Write("{0, -10}", "Score Diff");
+            FillInfo.WriteLine("\n\n");
+            for (var x = 0; x < ListAdd.Count; x++)
             {
-                SBList1.FillInfo(stuff[x], sw);
+                SBList1.FillInfo(ListAdd[x], FillInfo);
             }
             return;
         }
@@ -121,46 +121,18 @@ class SBList1
 
 
     }
-    public static void FillInfo(SBList1 row, StreamWriter sw)
+    public static void FillInfo(SBList1 ListAdd, StreamWriter FillInfo)
     {
-        sw.Write("{0, -25}", row.tWinner);
-        sw.Write("{0, -6}", row.date);
-        sw.Write("{0, -30}", row.qbWinner);
-        sw.Write("{0, -25}", row.cWinner);
-        sw.Write("{0, -30}", row.MVP);
-        sw.Write("{0, -10}", (row.winPoints - row.losePoints));
-        sw.WriteLine();
+        FillInfo.Write(ListAdd.tWinner, "\n");
+        FillInfo.Write( ListAdd.date, "\n");
+        FillInfo.Write( ListAdd.qbWinner, "\n");
+        FillInfo.Write( ListAdd.cWinner, "\n");
+        FillInfo.Write( ListAdd.MVP, "\n");
+        FillInfo.Write( Convert.ToString(ListAdd.winPoints - ListAdd.losePoints), "\n");
+        FillInfo.WriteLine();
         return;
     }
 
 }
 
-
-/*
-  public string date { get; set; }
-            public string sbNumber { get; set; }
-            public int attendance { get; set; }
-            public string qbWinner { get; set; }
-            public string cWinner { get; set; }
-            public string tWinner { get; set; }
-            public int winPoints { get; set; }
-            public string qbLoser { get; set; }
-            public string cLoser { get; set; }
-            public int losePoints { get; set; }
-            public string MVP { get; set; }
-            public string stadium { get; set; }
-            public string city { get; set; }
-            public string state { get; set; }
-
-
-
-    Opening repositories:
-C:\Users\vanbrec\Documents\Visual Studio 2017\Projects\Project 2(1)
-Error encountered while pushing branch to the remote repository: Git failed with a fatal error.
-HttpRequestException encountered.
-   An error occurred while sending the request.
-cannot spawn askpass: No such file or directory
-could not read Username for 'https://github.com': terminal prompts disabled
-Pushing to https://github.com/VanBreC/Project-2.git
-*/
 
