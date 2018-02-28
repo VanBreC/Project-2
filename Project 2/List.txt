@@ -2,55 +2,55 @@ All SuperBowl Winners
 Winning Team             Year  Winning QB                    Winning Coach            MVP                           Score Diff
 
 
-Green Bay Packers15-Jan-67Bart StarrVince LombardiBart Starr25
-Green Bay Packers14-Jan-68Bart StarrVince LombardiBart Starr19
-New York Jets12-Jan-69Joe NamathWeeb EwbankJoe Namath9
-Kansas City Chiefs11-Jan-70Len Dawson Mike LivingstonHank StramLen Dawson16
-Baltimore Colts17-Jan-71Earl Morrall Johnny UnitasDon McCaffertyChuck Howley3
-Dallas Cowboys16-Jan-72Roger StaubachTom LandryRoger Staubach21
-Miami Dolphins14-Jan-73Bob GrieseDon ShulaJake Scott7
-Miami Dolphins13-Jan-74Bob GrieseDon ShulaLarry Csonka17
-Pittsburgh Steelers12-Jan-75Terry BradshawChuck Noll Franco Harris10
-Pittsburgh Steelers18-Jan-76Terry BradshawChuck Noll Lynn Swann4
-Oakland Raiders9-Jan-77Kenny StablerJohn MaddenFred Biletnikoff18
-Dallas Cowboys15-Jan-78Roger StaubachTom LandryHarvey Martin Randy White17
-Pittsburgh Steelers21-Jan-79Terry BradshawChuck NollTerry Bradshaw4
-Pittsburgh Steelers20-Jan-80Terry BradshawChuck NollTerry Bradshaw12
-Oakland Raiders25-Jan-81Jim PlunkettTom FloresJim Plunkett17
-San Francisco 49ers24-Jan-82Joe MontanaBill WalshJoe Montana5
-Washington Redskins30-Jan-83Joe TheismannJoe GibbsJohn Riggins10
-Los Angeles Raiders22-Jan-84Jim PlunkettTom FloresMarcus Allen29
-San Francisco 49ers20-Jan-85Joe MontanoBill WalshJoe Montana22
-Chicago Bears26-Jan-86Jim McMahonMike DitkaRichard Dent36
-New York Giants25-Jan-87Phil SimmsBill ParcellsPhil Simms19
-Washington Redskins31-Jan-88Doug WilliamsJoe GibbsDoug Williams32
-San Francisco 49ers22-Jan-89Joe MontanaBill WalshJerry Rice4
-San Francisco 49ers28-Jan-90Joe MontanaGeorge SeifertJoe Montana45
-New York Giants27-Jan-91Jeff HostetlerBill ParcellsOttis Anderson1
-Washington Redskins26-Jan-92Mark RypienJoe GibbsMark Rypien13
-Dallas Cowboys31-Jan-93Troy AikmanJimmy JohnsonTroy Aikman35
-Dallas Cowboys30-Jan-94Troy AikmanJimmy JohnsonEmmitt Smith17
-San Francisco 49ers29-Jan-95Steve YoungGeorge SeifertSteve Young23
-Dallas Cowboys28-Jan-96Troy AikmanBarry SwitzerLarry Brown10
-Green Bay Packers26-Jan-97Brett FavreMike HolmgrenDesmond Howard14
-Denver Broncos25-Jan-98John ElwayMike ShanahanTerrell Davis7
-Denver Broncos31-Jan-99John ElwayMike ShanahanJohn Elway15
-St. Louis Rams30-Jan-00Kurt WarnerDick VermeilKurt Warner7
-Baltimore Ravens28-Jan-01Trent DilferBrian BillickRay Lewis27
-New England Patriots3-Feb-02Tom BradyBill BelichickTom Brady3
-Tampa Bay Buccaneers26-Jan-03Brad JohnsonJon GrudenDexter Jackson27
-New England Patriots1-Feb-04Tom BradyBill BelichickTom Brady3
-New England Patriots6-Feb-05Tom BradyBill BelichickDeion Branch3
-Pittsburgh Steelers5-Feb-06Ben RoethlisbergerBill CowherHines Ward11
-Indianapolis Colts4-Feb-07Peyton ManningTony DungyPeyton Manning12
-New York Giants3-Feb-08Eli ManningTom CoughlinEli Manning3
-Pittsburgh Steelers1-Feb-09Ben RoethlisbergerMike TomlinSantonio Holmes4
-New Orleans Saints7-Feb-10Drew BreesSean PaytonDrew Brees14
-Green Bay Packers6-Feb-11Aaron RodgersMike McCarthyAaron Rodgers6
-New York Giants5-Feb-12Eli ManningTom CoughlinEli Manning4
-Baltimore Ravens3-Feb-13Joe FlaccoJohn HarbaughJoe Flacco3
-Seattle Seahawks2-Feb-14Russell WilsonPete CarrollMalcolm Smith35
-New England Patriots1-Feb-15Tom BradyBill BelichickTom Brady4
-Denver Broncos7-Feb-16Peyton ManningGary KubiakVon Miller14
-New England Patriots5-Feb-17Tom BradyBill BelichickTom Brady6
+Winning Team: Green Bay Packers
+Winning Team: Green Bay Packers
+Winning Team: New York Jets
+Winning Team: Kansas City Chiefs
+Winning Team: Baltimore Colts
+Winning Team: Dallas Cowboys
+Winning Team: Miami Dolphins
+Winning Team: Miami Dolphins
+Winning Team: Pittsburgh Steelers
+Winning Team: Pittsburgh Steelers
+Winning Team: Oakland Raiders
+Winning Team: Dallas Cowboys
+Winning Team: Pittsburgh Steelers
+Winning Team: Pittsburgh Steelers
+Winning Team: Oakland Raiders
+Winning Team: San Francisco 49ers
+Winning Team: Washington Redskins
+Winning Team: Los Angeles Raiders
+Winning Team: San Francisco 49ers
+Winning Team: Chicago Bears
+Winning Team: New York Giants
+Winning Team: Washington Redskins
+Winning Team: San Francisco 49ers
+Winning Team: San Francisco 49ers
+Winning Team: New York Giants
+Winning Team: Washington Redskins
+Winning Team: Dallas Cowboys
+Winning Team: Dallas Cowboys
+Winning Team: San Francisco 49ers
+Winning Team: Dallas Cowboys
+Winning Team: Green Bay Packers
+Winning Team: Denver Broncos
+Winning Team: Denver Broncos
+Winning Team: St. Louis Rams
+Winning Team: Baltimore Ravens
+Winning Team: New England Patriots
+Winning Team: Tampa Bay Buccaneers
+Winning Team: New England Patriots
+Winning Team: New England Patriots
+Winning Team: Pittsburgh Steelers
+Winning Team: Indianapolis Colts
+Winning Team: New York Giants
+Winning Team: Pittsburgh Steelers
+Winning Team: New Orleans Saints
+Winning Team: Green Bay Packers
+Winning Team: New York Giants
+Winning Team: Baltimore Ravens
+Winning Team: Seattle Seahawks
+Winning Team: New England Patriots
+Winning Team: Denver Broncos
+Winning Team: New England Patriots
 

@@ -123,12 +123,13 @@ class SBList1
     }
     public static void FillInfo(SBList1 ListAdd, StreamWriter FillInfo)
     {
-        FillInfo.Write(ListAdd.tWinner, "\n");
-        FillInfo.Write( ListAdd.date, "\n");
-        FillInfo.Write( ListAdd.qbWinner, "\n");
-        FillInfo.Write( ListAdd.cWinner, "\n");
-        FillInfo.Write( ListAdd.MVP, "\n");
-        FillInfo.Write( Convert.ToString(ListAdd.winPoints - ListAdd.losePoints), "\n");
+        //FillInfo.Write(ListAdd.tWinner, "\n");
+        //FillInfo.Write( ListAdd.date, "\n");
+        //FillInfo.Write( ListAdd.qbWinner, "\n");
+        //FillInfo.Write( ListAdd.cWinner, "\n");
+        //FillInfo.Write( ListAdd.MVP, "\n");
+       // FillInfo.Write( Convert.ToString(ListAdd.winPoints - ListAdd.losePoints), "\n");
+        FillInfo.Write($"Winning Team: {ListAdd.tWinner}");
         FillInfo.WriteLine();
         return;
     }
