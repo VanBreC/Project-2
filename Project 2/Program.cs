@@ -129,7 +129,7 @@ class SBList1
         //FillInfo.Write( ListAdd.cWinner, "\n");
         //FillInfo.Write( ListAdd.MVP, "\n");
        // FillInfo.Write( Convert.ToString(ListAdd.winPoints - ListAdd.losePoints), "\n");
-        FillInfo.Write($"Winning Team: {ListAdd.tWinner}");
+        FillInfo.Write($"Winning Team: {ListAdd.tWinner}\nDate: {ListAdd.date}\n");
         FillInfo.WriteLine();
         return;
     }
