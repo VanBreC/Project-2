@@ -7,24 +7,23 @@ using System.IO;
 
 namespace Project_2_1_
 {
-    public class FileRead
+    class Program
     {
+        
+
+        
         static void Main()
         {
-            FileInfo();
-        }
-        public static void FileInfo()
-        {
-
             List<SBList1> stuff = new List<SBList1>();
-
             SBList1 sbInfo;
+
             //
             const char DELIMITER = ',';
             string[] columns;
             const string FilePath = @"C:\Users\vanbrec\Documents\Advance Programing\Visual Studio 2017\Projects\Project 2\Project 2\Super_Bowl_Project.csv";
-            FileStream newfile = new FileStream("SuperBowlLists.txt", FileMode.Create, FileAccess.Write);
-            StreamWriter writer = new StreamWriter(newfile);
+            string newFilepath = @"C:\Users\vanbrec\Documents\Advance Programing\Visual Studio 2017\Projects\Project 2\Project 2";
+            
+            //"SuperBowlLists.txt"
             try
             {
 
@@ -50,62 +49,109 @@ namespace Project_2_1_
 
 
 
-                writer.Close();
+
                 reader.Close();
                 file.Close();
-                newfile.Close();
+
 
             }
             catch (Exception i)
             {
                 Console.WriteLine(i.Message);
             }
-
-        }
-        class SBList1
-        {
-            public string date { get; set; }
-            public string sbNumber { get; set; }
-            public string attendance { get; set; }
-            public string qbWinner { get; set; }
-            public string cWinner { get; set; }
-            public string tWinner { get; set; }
-            public string winPoints { get; set; }
-            public string qbLoser { get; set; }
-            public string cLoser { get; set; }
-            public string losePoints { get; set; }
-            public string MVP { get; set; }
-            public string stadium { get; set; }
-            public string city { get; set; }
-            public string state { get; set; }
-
-
-
-            public SBList1(string date, string sbNumber, string attendance, string qbWinner, string cWinner, string tWinner, string winPoints, string qbLoser, string cLoser, string losePoints, string MVP, string stadium, string city, string state)
+            using (StreamWriter sw = new StreamWriter(newFilepath))
             {
-                this.date = date;
-                this.sbNumber = sbNumber;
-                this.attendance = attendance;
-                this.qbWinner = qbWinner;
-                this.cWinner = cWinner;
-                this.tWinner = tWinner;
-                this.winPoints = winPoints;
-                this.qbLoser = qbLoser;
-                this.cLoser = cLoser;
-                this.losePoints = losePoints;
-                this.MVP = MVP;
-                this.stadium = stadium;
-                this.city = city;
-                this.state = state;
-
-
+                SB_Winners(ref stuff, sw);
+                sw.WriteLine();
             }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+            return;
         }
+
+        public static void SB_Winners(ref List<SBList1> stuff, StreamWriter sw)
+        {
+            sw.WriteLine("All SuperBowl Winners");
+            sw.Write("{0, -25}", "Winning Team");
+            sw.Write("{0, -6}", "Year");
+            sw.Write("{0, -30}", "Winning QB");
+            sw.Write("{0, -25}", "Winning Coach");
+            sw.Write("{0, -30}", "MVP");
+            sw.Write("{0, -10}", "Score Diff");
+            sw.WriteLine("\n");
+            for (var x = 0; x < stuff.Count; x++)
+            {
+                SBList1.List1(stuff[x], sw);
+            }
+            return;
+        }
+    }
+}
+class SBList1
+{
+    public string date { get; set; }
+    public string sbNumber { get; set; }
+    public int attendance { get; set; }
+    public string qbWinner { get; set; }
+    public string cWinner { get; set; }
+    public string tWinner { get; set; }
+    public int winPoints { get; set; }
+    public string qbLoser { get; set; }
+    public string cLoser { get; set; }
+    public int losePoints { get; set; }
+    public string MVP { get; set; }
+    public string stadium { get; set; }
+    public string city { get; set; }
+    public string state { get; set; }
+
+
+
+    public SBList1(string date, string sbNumber, string attendance, string qbWinner, string cWinner, string tWinner, string winPoints, string qbLoser, string cLoser, string losePoints, string MVP, string stadium, string city, string state)
+    {
+        this.date = date;
+        this.sbNumber = sbNumber;
+        this.attendance = int.Parse(attendance);
+        this.qbWinner = qbWinner;
+        this.cWinner = cWinner;
+        this.tWinner = tWinner;
+        this.winPoints = int.Parse(winPoints);
+        this.qbLoser = qbLoser;
+        this.cLoser = cLoser;
+        this.losePoints = int.Parse(losePoints);
+        this.MVP = MVP;
+        this.stadium = stadium;
+        this.city = city;
+        this.state = state;
+
+
+    }
+    public static void List1(SBList1 row, StreamWriter sw)
+    {
+        sw.Write("{0, -25}", row.tWinner);
+        sw.Write("{0, -6}", row.date);
+        sw.Write("{0, -30}", row.qbWinner);
+        sw.Write("{0, -25}", row.cWinner);
+        sw.Write("{0, -30}", row.MVP);
+        sw.Write("{0, -10}", (row.winPoints - row.losePoints));
+        sw.WriteLine();
+        return;
     }
 
 }
+
+
 /*
   public string date { get; set; }
             public string sbNumber { get; set; }
