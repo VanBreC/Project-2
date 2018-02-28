@@ -1,205 +1,708 @@
-Winning Team: Green Bay Packers
+Winning Team of Each Super Bowl
 
-Date: 15-Jan-67
+- Winning Team: Green Bay Packers
 
-Winning Team: Green Bay Packers
+- Date: 15-Jan-67
 
-Date: 14-Jan-68
+- Winning Quarterback: Bart Starr
 
-Winning Team: New York Jets
+- Winning Coach: Vince Lombardi
 
-Date: 12-Jan-69
+- MVP: Bart Starr
 
-Winning Team: Kansas City Chiefs
+- Point Difference: 25
 
-Date: 11-Jan-70
 
-Winning Team: Baltimore Colts
+- Winning Team: Green Bay Packers
 
-Date: 17-Jan-71
+- Date: 14-Jan-68
 
-Winning Team: Dallas Cowboys
+- Winning Quarterback: Bart Starr
 
-Date: 16-Jan-72
+- Winning Coach: Vince Lombardi
 
-Winning Team: Miami Dolphins
+- MVP: Bart Starr
 
-Date: 14-Jan-73
+- Point Difference: 19
 
-Winning Team: Miami Dolphins
 
-Date: 13-Jan-74
+- Winning Team: New York Jets
 
-Winning Team: Pittsburgh Steelers
+- Date: 12-Jan-69
 
-Date: 12-Jan-75
+- Winning Quarterback: Joe Namath
 
-Winning Team: Pittsburgh Steelers
+- Winning Coach: Weeb Ewbank
 
-Date: 18-Jan-76
+- MVP: Joe Namath
 
-Winning Team: Oakland Raiders
+- Point Difference: 9
 
-Date: 9-Jan-77
 
-Winning Team: Dallas Cowboys
+- Winning Team: Kansas City Chiefs
 
-Date: 15-Jan-78
+- Date: 11-Jan-70
 
-Winning Team: Pittsburgh Steelers
+- Winning Quarterback: Len Dawson Mike Livingston
 
-Date: 21-Jan-79
+- Winning Coach: Hank Stram
 
-Winning Team: Pittsburgh Steelers
+- MVP: Len Dawson
 
-Date: 20-Jan-80
+- Point Difference: 16
 
-Winning Team: Oakland Raiders
 
-Date: 25-Jan-81
+- Winning Team: Baltimore Colts
 
-Winning Team: San Francisco 49ers
+- Date: 17-Jan-71
 
-Date: 24-Jan-82
+- Winning Quarterback: Earl Morrall Johnny Unitas
 
-Winning Team: Washington Redskins
+- Winning Coach: Don McCafferty
 
-Date: 30-Jan-83
+- MVP: Chuck Howley
 
-Winning Team: Los Angeles Raiders
+- Point Difference: 3
 
-Date: 22-Jan-84
 
-Winning Team: San Francisco 49ers
+- Winning Team: Dallas Cowboys
 
-Date: 20-Jan-85
+- Date: 16-Jan-72
 
-Winning Team: Chicago Bears
+- Winning Quarterback: Roger Staubach
 
-Date: 26-Jan-86
+- Winning Coach: Tom Landry
 
-Winning Team: New York Giants
+- MVP: Roger Staubach
 
-Date: 25-Jan-87
+- Point Difference: 21
 
-Winning Team: Washington Redskins
 
-Date: 31-Jan-88
+- Winning Team: Miami Dolphins
 
-Winning Team: San Francisco 49ers
+- Date: 14-Jan-73
 
-Date: 22-Jan-89
+- Winning Quarterback: Bob Griese
 
-Winning Team: San Francisco 49ers
+- Winning Coach: Don Shula
 
-Date: 28-Jan-90
+- MVP: Jake Scott
 
-Winning Team: New York Giants
+- Point Difference: 7
 
-Date: 27-Jan-91
 
-Winning Team: Washington Redskins
+- Winning Team: Miami Dolphins
 
-Date: 26-Jan-92
+- Date: 13-Jan-74
 
-Winning Team: Dallas Cowboys
+- Winning Quarterback: Bob Griese
 
-Date: 31-Jan-93
+- Winning Coach: Don Shula
 
-Winning Team: Dallas Cowboys
+- MVP: Larry Csonka
 
-Date: 30-Jan-94
+- Point Difference: 17
 
-Winning Team: San Francisco 49ers
 
-Date: 29-Jan-95
+- Winning Team: Pittsburgh Steelers
 
-Winning Team: Dallas Cowboys
+- Date: 12-Jan-75
 
-Date: 28-Jan-96
+- Winning Quarterback: Terry Bradshaw
 
-Winning Team: Green Bay Packers
+- Winning Coach: Chuck Noll 
 
-Date: 26-Jan-97
+- MVP: Franco Harris
 
-Winning Team: Denver Broncos
+- Point Difference: 10
 
-Date: 25-Jan-98
 
-Winning Team: Denver Broncos
+- Winning Team: Pittsburgh Steelers
 
-Date: 31-Jan-99
+- Date: 18-Jan-76
 
-Winning Team: St. Louis Rams
+- Winning Quarterback: Terry Bradshaw
 
-Date: 30-Jan-00
+- Winning Coach: Chuck Noll 
 
-Winning Team: Baltimore Ravens
+- MVP: Lynn Swann
 
-Date: 28-Jan-01
+- Point Difference: 4
 
-Winning Team: New England Patriots
 
-Date: 3-Feb-02
+- Winning Team: Oakland Raiders
 
-Winning Team: Tampa Bay Buccaneers
+- Date: 9-Jan-77
 
-Date: 26-Jan-03
+- Winning Quarterback: Kenny Stabler
 
-Winning Team: New England Patriots
+- Winning Coach: John Madden
 
-Date: 1-Feb-04
+- MVP: Fred Biletnikoff
 
-Winning Team: New England Patriots
+- Point Difference: 18
 
-Date: 6-Feb-05
 
-Winning Team: Pittsburgh Steelers
+- Winning Team: Dallas Cowboys
 
-Date: 5-Feb-06
+- Date: 15-Jan-78
 
-Winning Team: Indianapolis Colts
+- Winning Quarterback: Roger Staubach
 
-Date: 4-Feb-07
+- Winning Coach: Tom Landry
 
-Winning Team: New York Giants
+- MVP: Harvey Martin Randy White
 
-Date: 3-Feb-08
+- Point Difference: 17
 
-Winning Team: Pittsburgh Steelers
 
-Date: 1-Feb-09
+- Winning Team: Pittsburgh Steelers
 
-Winning Team: New Orleans Saints
+- Date: 21-Jan-79
 
-Date: 7-Feb-10
+- Winning Quarterback: Terry Bradshaw
 
-Winning Team: Green Bay Packers
+- Winning Coach: Chuck Noll
 
-Date: 6-Feb-11
+- MVP: Terry Bradshaw
 
-Winning Team: New York Giants
+- Point Difference: 4
 
-Date: 5-Feb-12
 
-Winning Team: Baltimore Ravens
+- Winning Team: Pittsburgh Steelers
 
-Date: 3-Feb-13
+- Date: 20-Jan-80
 
-Winning Team: Seattle Seahawks
+- Winning Quarterback: Terry Bradshaw
 
-Date: 2-Feb-14
+- Winning Coach: Chuck Noll
 
-Winning Team: New England Patriots
+- MVP: Terry Bradshaw
 
-Date: 1-Feb-15
+- Point Difference: 12
 
-Winning Team: Denver Broncos
 
-Date: 7-Feb-16
+- Winning Team: Oakland Raiders
 
-Winning Team: New England Patriots
+- Date: 25-Jan-81
 
-Date: 5-Feb-17
+- Winning Quarterback: Jim Plunkett
+
+- Winning Coach: Tom Flores
+
+- MVP: Jim Plunkett
+
+- Point Difference: 17
+
+
+- Winning Team: San Francisco 49ers
+
+- Date: 24-Jan-82
+
+- Winning Quarterback: Joe Montana
+
+- Winning Coach: Bill Walsh
+
+- MVP: Joe Montana
+
+- Point Difference: 5
+
+
+- Winning Team: Washington Redskins
+
+- Date: 30-Jan-83
+
+- Winning Quarterback: Joe Theismann
+
+- Winning Coach: Joe Gibbs
+
+- MVP: John Riggins
+
+- Point Difference: 10
+
+
+- Winning Team: Los Angeles Raiders
+
+- Date: 22-Jan-84
+
+- Winning Quarterback: Jim Plunkett
+
+- Winning Coach: Tom Flores
+
+- MVP: Marcus Allen
+
+- Point Difference: 29
+
+
+- Winning Team: San Francisco 49ers
+
+- Date: 20-Jan-85
+
+- Winning Quarterback: Joe Montano
+
+- Winning Coach: Bill Walsh
+
+- MVP: Joe Montana
+
+- Point Difference: 22
+
+
+- Winning Team: Chicago Bears
+
+- Date: 26-Jan-86
+
+- Winning Quarterback: Jim McMahon
+
+- Winning Coach: Mike Ditka
+
+- MVP: Richard Dent
+
+- Point Difference: 36
+
+
+- Winning Team: New York Giants
+
+- Date: 25-Jan-87
+
+- Winning Quarterback: Phil Simms
+
+- Winning Coach: Bill Parcells
+
+- MVP: Phil Simms
+
+- Point Difference: 19
+
+
+- Winning Team: Washington Redskins
+
+- Date: 31-Jan-88
+
+- Winning Quarterback: Doug Williams
+
+- Winning Coach: Joe Gibbs
+
+- MVP: Doug Williams
+
+- Point Difference: 32
+
+
+- Winning Team: San Francisco 49ers
+
+- Date: 22-Jan-89
+
+- Winning Quarterback: Joe Montana
+
+- Winning Coach: Bill Walsh
+
+- MVP: Jerry Rice
+
+- Point Difference: 4
+
+
+- Winning Team: San Francisco 49ers
+
+- Date: 28-Jan-90
+
+- Winning Quarterback: Joe Montana
+
+- Winning Coach: George Seifert
+
+- MVP: Joe Montana
+
+- Point Difference: 45
+
+
+- Winning Team: New York Giants
+
+- Date: 27-Jan-91
+
+- Winning Quarterback: Jeff Hostetler
+
+- Winning Coach: Bill Parcells
+
+- MVP: Ottis Anderson
+
+- Point Difference: 1
+
+
+- Winning Team: Washington Redskins
+
+- Date: 26-Jan-92
+
+- Winning Quarterback: Mark Rypien
+
+- Winning Coach: Joe Gibbs
+
+- MVP: Mark Rypien
+
+- Point Difference: 13
+
+
+- Winning Team: Dallas Cowboys
+
+- Date: 31-Jan-93
+
+- Winning Quarterback: Troy Aikman
+
+- Winning Coach: Jimmy Johnson
+
+- MVP: Troy Aikman
+
+- Point Difference: 35
+
+
+- Winning Team: Dallas Cowboys
+
+- Date: 30-Jan-94
+
+- Winning Quarterback: Troy Aikman
+
+- Winning Coach: Jimmy Johnson
+
+- MVP: Emmitt Smith
+
+- Point Difference: 17
+
+
+- Winning Team: San Francisco 49ers
+
+- Date: 29-Jan-95
+
+- Winning Quarterback: Steve Young
+
+- Winning Coach: George Seifert
+
+- MVP: Steve Young
+
+- Point Difference: 23
+
+
+- Winning Team: Dallas Cowboys
+
+- Date: 28-Jan-96
+
+- Winning Quarterback: Troy Aikman
+
+- Winning Coach: Barry Switzer
+
+- MVP: Larry Brown
+
+- Point Difference: 10
+
+
+- Winning Team: Green Bay Packers
+
+- Date: 26-Jan-97
+
+- Winning Quarterback: Brett Favre
+
+- Winning Coach: Mike Holmgren
+
+- MVP: Desmond Howard
+
+- Point Difference: 14
+
+
+- Winning Team: Denver Broncos
+
+- Date: 25-Jan-98
+
+- Winning Quarterback: John Elway
+
+- Winning Coach: Mike Shanahan
+
+- MVP: Terrell Davis
+
+- Point Difference: 7
+
+
+- Winning Team: Denver Broncos
+
+- Date: 31-Jan-99
+
+- Winning Quarterback: John Elway
+
+- Winning Coach: Mike Shanahan
+
+- MVP: John Elway
+
+- Point Difference: 15
+
+
+- Winning Team: St. Louis Rams
+
+- Date: 30-Jan-00
+
+- Winning Quarterback: Kurt Warner
+
+- Winning Coach: Dick Vermeil
+
+- MVP: Kurt Warner
+
+- Point Difference: 7
+
+
+- Winning Team: Baltimore Ravens
+
+- Date: 28-Jan-01
+
+- Winning Quarterback: Trent Dilfer
+
+- Winning Coach: Brian Billick
+
+- MVP: Ray Lewis
+
+- Point Difference: 27
+
+
+- Winning Team: New England Patriots
+
+- Date: 3-Feb-02
+
+- Winning Quarterback: Tom Brady
+
+- Winning Coach: Bill Belichick
+
+- MVP: Tom Brady
+
+- Point Difference: 3
+
+
+- Winning Team: Tampa Bay Buccaneers
+
+- Date: 26-Jan-03
+
+- Winning Quarterback: Brad Johnson
+
+- Winning Coach: Jon Gruden
+
+- MVP: Dexter Jackson
+
+- Point Difference: 27
+
+
+- Winning Team: New England Patriots
+
+- Date: 1-Feb-04
+
+- Winning Quarterback: Tom Brady
+
+- Winning Coach: Bill Belichick
+
+- MVP: Tom Brady
+
+- Point Difference: 3
+
+
+- Winning Team: New England Patriots
+
+- Date: 6-Feb-05
+
+- Winning Quarterback: Tom Brady
+
+- Winning Coach: Bill Belichick
+
+- MVP: Deion Branch
+
+- Point Difference: 3
+
+
+- Winning Team: Pittsburgh Steelers
+
+- Date: 5-Feb-06
+
+- Winning Quarterback: Ben Roethlisberger
+
+- Winning Coach: Bill Cowher
+
+- MVP: Hines Ward
+
+- Point Difference: 11
+
+
+- Winning Team: Indianapolis Colts
+
+- Date: 4-Feb-07
+
+- Winning Quarterback: Peyton Manning
+
+- Winning Coach: Tony Dungy
+
+- MVP: Peyton Manning
+
+- Point Difference: 12
+
+
+- Winning Team: New York Giants
+
+- Date: 3-Feb-08
+
+- Winning Quarterback: Eli Manning
+
+- Winning Coach: Tom Coughlin
+
+- MVP: Eli Manning
+
+- Point Difference: 3
+
+
+- Winning Team: Pittsburgh Steelers
+
+- Date: 1-Feb-09
+
+- Winning Quarterback: Ben Roethlisberger
+
+- Winning Coach: Mike Tomlin
+
+- MVP: Santonio Holmes
+
+- Point Difference: 4
+
+
+- Winning Team: New Orleans Saints
+
+- Date: 7-Feb-10
+
+- Winning Quarterback: Drew Brees
+
+- Winning Coach: Sean Payton
+
+- MVP: Drew Brees
+
+- Point Difference: 14
+
+
+- Winning Team: Green Bay Packers
+
+- Date: 6-Feb-11
+
+- Winning Quarterback: Aaron Rodgers
+
+- Winning Coach: Mike McCarthy
+
+- MVP: Aaron Rodgers
+
+- Point Difference: 6
+
+
+- Winning Team: New York Giants
+
+- Date: 5-Feb-12
+
+- Winning Quarterback: Eli Manning
+
+- Winning Coach: Tom Coughlin
+
+- MVP: Eli Manning
+
+- Point Difference: 4
+
+
+- Winning Team: Baltimore Ravens
+
+- Date: 3-Feb-13
+
+- Winning Quarterback: Joe Flacco
+
+- Winning Coach: John Harbaugh
+
+- MVP: Joe Flacco
+
+- Point Difference: 3
+
+
+- Winning Team: Seattle Seahawks
+
+- Date: 2-Feb-14
+
+- Winning Quarterback: Russell Wilson
+
+- Winning Coach: Pete Carroll
+
+- MVP: Malcolm Smith
+
+- Point Difference: 35
+
+
+- Winning Team: New England Patriots
+
+- Date: 1-Feb-15
+
+- Winning Quarterback: Tom Brady
+
+- Winning Coach: Bill Belichick
+
+- MVP: Tom Brady
+
+- Point Difference: 4
+
+
+- Winning Team: Denver Broncos
+
+- Date: 7-Feb-16
+
+- Winning Quarterback: Peyton Manning
+
+- Winning Coach: Gary Kubiak
+
+- MVP: Von Miller
+
+- Point Difference: 14
+
+
+- Winning Team: New England Patriots
+
+- Date: 5-Feb-17
+
+- Winning Quarterback: Tom Brady
+
+- Winning Coach: Bill Belichick
+
+- MVP: Tom Brady
+
+- Point Difference: 6
+
+
+----- End of Winning Team List
+
+
+Top 5 Attended SuperBowls
+- Date: 20-Jan-80
+- Winning Team: Pittsburgh Steelers
+- Losing Team: Los Angeles Rams
+- City: Pasadena
+- State: California
+- Stadium: Rose Bowl
+
+- Date: 30-Jan-83
+- Winning Team: Washington Redskins
+- Losing Team: Miami Dolphins
+- City: Pasadena
+- State: California
+- Stadium: Rose Bowl
+
+- Date: 9-Jan-77
+- Winning Team: Oakland Raiders
+- Losing Team: Minnesota Vikings
+- City: Pasadena
+- State: California
+- Stadium: Rose Bowl
+
+- Date: 6-Feb-11
+- Winning Team: Green Bay Packers
+- Losing Team: Pittsburgh Steelers
+- City: Arlington
+- State: Texas
+- Stadium: Cowboys Stadium
+
+- Date: 25-Jan-87
+- Winning Team: New York Giants
+- Losing Team: Denver Broncos
+- City: Pasadena
+- State: California
+- Stadium: Rose Bowl
+
+----- End of Top Attended Super Bowls
+
 
 

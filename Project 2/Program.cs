@@ -57,6 +57,8 @@ namespace Project_2_1_
             {
                 List1(ref ListAdd, FileWrite);
                 FileWrite.WriteLine();
+                Attending(ref ListAdd, FileWrite);
+                FileWrite.WriteLine();
             }
 
             
@@ -65,11 +67,37 @@ namespace Project_2_1_
 
         public static void List1(ref List<SBList1> ListAdd, StreamWriter FillInfo)
         {
-           
+            FillInfo.WriteLine("Winning Team of Each Super Bowl");
+            FillInfo.WriteLine();
             for (var x = 0; x < ListAdd.Count; x++)
             {
                 SBList1.FillInfo(ListAdd[x], FillInfo);
             }
+            FillInfo.WriteLine("----- End of Winning Team List");
+            FillInfo.WriteLine();
+            return;
+        }
+        public static void Attending(ref List<SBList1> ListAdd, StreamWriter FileWrite)
+        {
+            var AttendList = (from order in ListAdd
+                              orderby order.attendance descending
+                              select order).Take(5).ToList();
+            FileWrite.WriteLine("Top Attended Super Bowls");
+            FileWrite.WriteLine();
+
+            for (var x = 0; x < AttendList.Count(); x++ )
+            {
+                FileWrite.WriteLine($"- Date: {AttendList[x].date}");
+                FileWrite.WriteLine($"- Winning Team: {AttendList[x].tWinner}");
+                FileWrite.WriteLine($"- Losing Team: {AttendList[x].tLoser}");
+                FileWrite.WriteLine($"- City: {AttendList[x].city}");
+                FileWrite.WriteLine($"- State: {AttendList[x].state}");
+                FileWrite.WriteLine($"- Stadium: {AttendList[x].stadium}");
+                FileWrite.WriteLine();
+            }
+            FileWrite.WriteLine("----- End of Top Attended Super Bowls");
+            FileWrite.WriteLine();
+            FileWrite.WriteLine();
             return;
         }
     }
@@ -116,18 +144,14 @@ class SBList1
     }
     public static void FillInfo(SBList1 ListAdd, StreamWriter FillInfo)
     {
-        FillInfo.Write($"Winning Team: {ListAdd.tWinner}\n");
+        FillInfo.WriteLine($"- Winning Team: {ListAdd.tWinner}\n");
+        FillInfo.WriteLine($"- Date: {ListAdd.date}\n");
+        FillInfo.WriteLine($"- Winning Quarterback: {ListAdd.qbWinner}\n");
+        FillInfo.WriteLine($"- Winning Coach: {ListAdd.cWinner}\n");
+        FillInfo.WriteLine($"- MVP: {ListAdd.MVP}\n");
+        FillInfo.WriteLine($"- Point Difference: {ListAdd.winPoints - ListAdd.losePoints}\n");
         FillInfo.WriteLine();
-        FillInfo.Write($"Date: {ListAdd.date}\n");
-        FillInfo.WriteLine();
-        FillInfo.Write($"Winning Quarterback: {ListAdd.qbWinner}\n");
-        FillInfo.WriteLine();
-        FillInfo.Write($"Winning Coach: {ListAdd.cWinner}\n");
-        FillInfo.WriteLine();
-        FillInfo.Write($"MVP: {ListAdd.MVP}\n");
-        FillInfo.WriteLine();
-        FillInfo.Write($"Point Difference: {ListAdd.winPoints - ListAdd.losePoints}\n");
-        FillInfo.WriteLine();
+        
         return;
     }
 
