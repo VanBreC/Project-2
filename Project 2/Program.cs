@@ -1,9 +1,19 @@
-﻿using System;
+﻿// Brendan VandeVoorde
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+
+/*
+ the first git starts when im already pretty far with the program
+ since i was having trouble uploading this to git i ended up copying it and pasting it
+ in a new project.
+ Also AJ Thompson was kind enough to send me his code to look at since i was having trouble
+ ill put comments at points were i used part of his code, i did what i could to change some parts
+ so it wouldnt be just a copy paste of his code but i couldnt find a way to make certain parts work unless it was just like his code
+*/
 
 namespace Project_2_1_
 {
@@ -23,7 +33,7 @@ namespace Project_2_1_
             const string FilePath = @"C:\Users\vanbrec\Documents\Advance Programing\Visual Studio 2017\Projects\Project 2\Project 2\Super_Bowl_Project.csv";
             string newFilepath = @"C:\Users\vanbrec\Documents\Advance Programing\Visual Studio 2017\Projects\Project 2\Project 2\List.txt";
             
-            //"SuperBowlLists.txt"
+            
             try
             {
 
@@ -53,6 +63,7 @@ namespace Project_2_1_
             {
                 Console.WriteLine(i.Message);
             }
+            // used from AJ's code to write the file
             using (StreamWriter FileWrite = new StreamWriter(newFilepath))
             {
                 List1(ref ListAdd, FileWrite);
@@ -64,7 +75,7 @@ namespace Project_2_1_
             
             return;
         }
-
+        //part of aj's code used here
         public static void List1(ref List<SBList1> ListAdd, StreamWriter FillInfo)
         {
             FillInfo.WriteLine("Winning Team of Each Super Bowl");
@@ -77,6 +88,7 @@ namespace Project_2_1_
             FillInfo.WriteLine();
             return;
         }
+        // part of aj's code, i changed the way its written to be written like the class example
         public static void Attending(ref List<SBList1> ListAdd, StreamWriter FileWrite)
         {
             var AttendList = (from order in ListAdd
@@ -142,6 +154,7 @@ class SBList1
 
 
     }
+    //part of aj's code, i changed the way its written to be written like the class example
     public static void FillInfo(SBList1 ListAdd, StreamWriter FillInfo)
     {
         FillInfo.WriteLine($"- Winning Team: {ListAdd.tWinner}\n");
