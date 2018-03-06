@@ -666,7 +666,8 @@ Winning Team of Each Super Bowl
 ----- End of Winning Team List
 
 
-Top 5 Attended SuperBowls
+Top Attended Super Bowls
+
 - Date: 20-Jan-80
 - Winning Team: Pittsburgh Steelers
 - Losing Team: Los Angeles Rams
@@ -705,4 +706,63 @@ Top 5 Attended SuperBowls
 ----- End of Top Attended Super Bowls
 
 
+Most Hosted Super Bowl State
 
+The Most Super Bowls have been hosted at Miami, Florida in the Orange Bowl Stadium
+
+----- End of Most Hosted Super Bowl State
+
+
+Most MVP's
+
+MVP: Joe Montana
+Team that won: San Francisco 49ers
+Team that lost: Cincinnati Bengals
+
+MVP: Tom Brady
+Team that won: New England Patriots
+Team that lost: St. Louis Rams
+
+----- End of Most MVP's
+
+
+Which Coach('s) Lost the Most Super Bowls?
+
+--- Don Shula
+
+--- Bud Grant
+
+--- Dan Reeves
+
+--- Marv Levy
+
+
+
+Which Coach('s) Won the Most Super Bowls?
+
+--- Bill Belichick
+
+
+
+Which Team(s) Won the Most Super Bowls?
+
+--- Pittsburgh Steelers
+
+
+
+Which Team(s) Lost the Most Super Bowls?
+
+--- Denver Broncos
+
+
+
+Which Super Bowl had the greatest point difference?
+
+--- Super Bowl XXIV had the greatest point difference
+
+
+What is the Average Attendance of all the Super Bowls?
+
+--- The Average Attendance is 77649
+
+End of File
