@@ -28,11 +28,10 @@ namespace Project_2_1_
             SBList1 sbInfo;
             Console.WriteLine("Enter the location of the file Super_Bowl_Project");
             string inputPath = Console.ReadLine();
-            string FileRead = inputPath + @"\Super_Bowl_Project.csv";
+            string FileRead = inputPath + @"\Super_Bowl_Project.csv"; //@"C:\Users\vanbrec\Documents\Advance Programing\Visual Studio 2017\Projects\Project 2\Project 2\Super_Bowl_Project.csv";
             const char DELIMITER = ',';
             string[] columns;
-            //@"C:\Users\vanbrec\Documents\Advance Programing\Visual Studio 2017\Projects\Project 2\Project 2\Super_Bowl_Project.csv";
-            string newFileWrite =inputPath + @"\List.txt";
+            string newFileWrite =inputPath + @"\List.txt"; //@"C:\Users\vanbrec\Documents\Advance Programing\Visual Studio 2017\Projects\Project 2\Project 2\List.txt";
             Console.WriteLine("The new File will be a text file in the same location under the name List");
 
 
@@ -41,10 +40,8 @@ namespace Project_2_1_
 
                 FileStream file = new FileStream(FileRead, FileMode.Open, FileAccess.Read);
                 StreamReader reader = new StreamReader(file);
+                //Skip headers
                 reader.ReadLine();
-
-
-
 
                 while (!reader.EndOfStream)
                 {
@@ -94,7 +91,7 @@ namespace Project_2_1_
 
             return;
         }
-        //part of aj's code used here
+        //reference of aj's code used here
         public static void List1(ref List<SBList1> ListAdd, StreamWriter FillInfo)
         {
             FillInfo.WriteLine("Winning Team of Each Super Bowl");
@@ -107,12 +104,10 @@ namespace Project_2_1_
             FillInfo.WriteLine();
             return;
         }
-        // part of aj's code, i changed the way its written to be written like the class example
+        // reference of aj's code, i changed the way its written to be written like the class example
         public static void Attending(ref List<SBList1> ListAdd, StreamWriter FileWrite)
         {
-            var AttendList = (from order in ListAdd
-                              orderby order.attendance descending
-                              select order).Take(5).ToList();
+            var AttendList = (from order in ListAdd orderby order.attendance descending select order).Take(5).ToList();
             FileWrite.WriteLine("Top Attended Super Bowls");
             FileWrite.WriteLine();
 
@@ -130,6 +125,7 @@ namespace Project_2_1_
             FileWrite.WriteLine();
             return;
         }
+        //reference of aj's code, i changed the way its written to be written like the class example
         public static void MostHost(ref List<SBList1> ListAdd, StreamWriter FileWrite)
         {
             FileWrite.WriteLine("Most Hosted Super Bowl State");
@@ -141,6 +137,7 @@ namespace Project_2_1_
             FileWrite.WriteLine();
             return;
         }
+        //reference of aj's code, i changed the way its written to be written like the class example
         public static void MostMVP(ref List<SBList1> ListAdd, StreamWriter FileWrite)
         {
             FileWrite.WriteLine("Most MVP's");
@@ -157,6 +154,7 @@ namespace Project_2_1_
             FileWrite.WriteLine();
             return;
         }
+        // reused same code from MostHosted above but using for loop from MostMVPs
         public static void MostcLost(ref List<SBList1> ListAdd, StreamWriter FileWrite)
         {
             FileWrite.WriteLine("Which Coach('s) Lost the Most Super Bowls?");
@@ -170,6 +168,7 @@ namespace Project_2_1_
             FileWrite.WriteLine();
             return;
         }
+        // reused same code from MostHosted above but using for loop from MostMVPs
         public static void MostcWon(ref List<SBList1> ListAdd, StreamWriter FileWrite)
         {
             FileWrite.WriteLine("Which Coach('s) Won the Most Super Bowls?");
@@ -183,6 +182,7 @@ namespace Project_2_1_
             FileWrite.WriteLine();
             return;
         }
+        // reused same code from MostHosted above but using for loop from MostMVPs
         public static void MostTWon(ref List<SBList1> ListAdd, StreamWriter FileWrite)
         {
             FileWrite.WriteLine("Which Team(s) Won the Most Super Bowls?");
@@ -196,6 +196,7 @@ namespace Project_2_1_
             FileWrite.WriteLine();
             return;
         }
+        // reused same code from MostHosted above but using for loop from MostMVPs
         public static void MostTLost(ref List<SBList1> ListAdd, StreamWriter FileWrite)
         {
             FileWrite.WriteLine("Which Team(s) Lost the Most Super Bowls?");
@@ -209,6 +210,7 @@ namespace Project_2_1_
             FileWrite.WriteLine();
             return;
         }
+        //reference of aj's code, i changed the way its written to be written like the class example
         public static void GPointDiff(ref List<SBList1> ListAdd, StreamWriter FileWrite)
         {
             FileWrite.WriteLine("Which Super Bowl had the greatest point difference?");
@@ -218,6 +220,7 @@ namespace Project_2_1_
             FileWrite.WriteLine();
             return;
         }
+        //reference of aj's code, i changed the way its written to be written like the class example
         public static void AverageAtt(ref List<SBList1> ListAdd, StreamWriter FileWrite)
         {
             List<int> AvAttend = new List<int>();
